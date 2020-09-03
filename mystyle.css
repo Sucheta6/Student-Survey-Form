@@ -1,0 +1,23 @@
+body {
+    background-color: grey;
+    color: azure;
+    font-size: 1.1em;
+	border : 5px;
+	 border-style: dotted;
+     border-color:#eb2828;
+	 padding : 20px;
+	 font-family: "Times New Roman", Times, serif;
+}
+h1 {
+    color: blue;
+	border:5px;
+	border-style:solid;
+	padding:0.5em;
+	text-align:center;
+	border-color:blue;
+}
+h3{
+	
+	color:#d60633;
+}
+	

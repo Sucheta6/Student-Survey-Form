@@ -1,0 +1,7 @@
+URL of the AWS Index page : 
+https://psvsucheta.s3.us-east-2.amazonaws.com/index.html
+
+URL of the AWS Error page : 
+https://psvsucheta.s3.us-east-2.amazonaws.com/error.html
+
+URL of the application deployed on EC2 instance: http://18.219.227.247/sucheta1/survey_form.html
